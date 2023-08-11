@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MideCodesWorld
-- 👀 I’m interested in Learning JS
+- 👀 I’m interested in Learning HTNL and CSS
 - 🌱 I’m currently learning too
 - 💞️ I’m looking forwards to get mentors in here 
 - 📫 How to reach me ... on whatsapp as 07017461321
